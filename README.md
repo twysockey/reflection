@@ -9,7 +9,7 @@ Contents
 # Reflection
 ## 6/30/2017
 Contents 
-
+Today I learned a lot about HTML. What really amazed me was how the internet was based off of this simple thing called HTML. Now everything runs off of it. Even major companys like google use it. HTML shows what computers can do to transform society. These machines can either allow humans to work at their top teir, or make humans turn their backs on other humans. What I also learned today was how to create my own website for free on GitHub. The whole process depends on the foundation of HTML to run a website.
 ---
 
 # Reflection
