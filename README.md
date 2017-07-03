@@ -1,9 +1,9 @@
 ---
 
 # Reflection
-## 7/1/2017
+## 7/3/2017
 Contents 
-
+Today I have really done nothing. I started fiddling around with html and try to form a website. I put photos and typed words into code, but it didn't add depth or make it interesting to the average person. I had to restart because of the lack of progress and now have a solid foundation for my project. The things I have learned today was more about how to specify code further and try to do more work independantly.
 ---
 
 # Reflection
