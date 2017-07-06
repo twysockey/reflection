@@ -1,7 +1,15 @@
 ---
+#Reflection
+## 7/6/2017
+So far I have been able to complete a small p
+
+
+
+
+
 # Reflection
 ## 7/5/2017
-Today I have been able to complete a portion of my website. I have been able to conect 2/3's of my website with in the website and I have been able to change a few colors as well. I have put memes on one page and a "about me" on another page. Im still trying to create ideas for what I should write about, but time is coming to a close because of the deadlines. I will most likely finish this project by tonight. I felt that I didn't put enough effort into the website so far. I think If I try harder next time then maybe I will do more.
+Today I have been able to complete a portion of my website. I have been able to connect 2/3's of my website with in the website and I have been able to change a few colors as well. I have put memes on one page and a "about me" on another page. Im still trying to create ideas for what I should write about, but time is coming to a close because of the deadlines. I will most likely finish this project by tonight. I felt that I didn't put enough effort into the website so far. I think If I try harder next time then maybe I will do more.
 
 # Reflection
 ## 7/3/2017
