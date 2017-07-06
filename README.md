@@ -1,9 +1,7 @@
 ---
 #Reflection
 ## 7/6/2017
-So far I have been able to complete a small p
-
-
+So far I have been able to complete a small portion of coding today. Im very confused on wether or not Im doing coding correctly, but I try to manage. What Im going to do for the project is use the same process of ask and answer and try to go from there.
 
 
 
