@@ -1,7 +1,7 @@
 ---
 #Reflection
 ## 7/6/2017
-So far I have been able to complete a small portion of coding today. Im very confused on wether or not Im doing coding correctly, but I try to manage. What Im going to do for the project is use the same process of ask and answer and try to go from there.
+So far I have been able to complete a small portion of coding today. Im very confused on wether or not Im doing coding correctly, but I try to manage. What Im going to do for the project is use the same process of ask and answer with the terminal that we were doing today and try and go from there. So for example, If I type my name name, Ill have the terminal respond with content/ a back story of pokeman. Thus allowing the program to be interactive. I just then have to make sure when it asks for somebodys name or a response it will be an intelligent one. So that will be the foundation of my project.
 
 
 
