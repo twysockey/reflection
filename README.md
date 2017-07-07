@@ -1,4 +1,12 @@
+#Reflection
+##7/7/2017
+Today I was able to organize my coding with variables. This allows me specify where I put certain codes. I also learned how to use print correctly and how to fix my coding mistakes more easily without anybodys help. Im still trying to learn how to place images as a text and how to have my text roll to the right, but other than that I learned a lot today. *dab
+
+
+
 ---
+
+
 #Reflection
 ## 7/6/2017
 So far I have been able to complete a small portion of coding today. Im very confused on wether or not Im doing coding correctly, but I try to manage. What Im going to do for the project is use the same process of ask and answer with the terminal that we were doing today and try and go from there. So for example, If I type my name name, Ill have the terminal respond with content/ a back story of pokeman. Thus allowing the program to be interactive. I just then have to make sure when it asks for somebodys name or a response it will be an intelligent one. So that will be the foundation of my project.
