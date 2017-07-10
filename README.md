@@ -1,4 +1,10 @@
 #Reflection
+##7/10/2017
+
+Today I was able to fix my problem on line ten when coding. After spending ten mins on it I figured out I had to add an + to it in order to solve it. I also learned todau that how to create lists in code. Or lists within lists. That sorta thing, I guess. Anyways I had difficulty with that and Im trying to understand how to do it. The process of making a list is supposedly the same as what Im doing in the Pokeman project.
+
+
+#Reflection
 ##7/7/2017
 Today I was able to organize my coding with variables. This allows me specify where I put certain codes. I also learned how to use print correctly and how to fix my coding mistakes more easily without anybodys help. Im still trying to learn how to place images as a text and how to have my text roll to the right, but other than that I learned a lot today. *dab
 
