@@ -1,4 +1,8 @@
 #Reflection
+##7/11/2017
+Today was a long day. For most of the day I spent my time researching 
+
+#Reflection
 ##7/10/2017
 
 Today I was able to fix my problem on line ten when coding. After spending ten mins on it I figured out I had to add an + to it in order to solve it. I also learned todau that how to create lists in code. Or lists within lists. That sorta thing, I guess. Anyways I had difficulty with that and Im trying to understand how to do it. The process of making a list is supposedly the same as what Im doing in the Pokeman project.
