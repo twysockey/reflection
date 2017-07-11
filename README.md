@@ -1,6 +1,7 @@
 #Reflection
 ##7/11/2017
-Today was a long day. For most of the day I spent my time researching 
+Today was a long day. For most of the day I spent my time researching again on how to make my text move everytime I touch the keyboard. I lost steam halfway through after doing two days of research that hasn't resulted in getting anyware. I haven't really learned anything today because of how tired I am at the moment. Tomorrow, my hope is that I might be able to find this "text" that might give me extra credit, but other than that im most likely calling quits.
+
 
 #Reflection
 ##7/10/2017
