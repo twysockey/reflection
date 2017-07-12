@@ -1,4 +1,11 @@
 #Reflection
+##7/12/2017
+Today much progress has happened. I was able to learn stuff I didn't have much grasp with. I sturggled in the beginning of class and gave Mr.Gold a hard time,but I was able to manage myself later in the class and accept the help from Mr.Gold to actually countinue forward with the class. I know have a better understanding of STR- this is a string which is helpful for connecting commands and other codes together. In the future I should ask Mr.Gold queastions because of how coding is so new to me. I cant be fed the answers, but what I can do is ask queastions. Ill make sure from now on to ask more queastions to improve and move forward in his class.
+
+
+
+
+#Reflection
 ##7/11/2017
 Today was a long day. For most of the day I spent my time researching again on how to make my text move everytime I touch the keyboard. I lost steam halfway through after doing two days of research that hasn't resulted in getting anyware. I haven't really learned anything today because of how tired I am at the moment. Tomorrow, my hope is that I might be able to find this "text" that might give me extra credit, but other than that im most likely calling quits.
 
