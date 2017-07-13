@@ -1,4 +1,11 @@
 #Reflection
+##7/13/20
+When coding today it was interesting. For the first portion of the class I was able to achieve a fair amount by myself. I was able to convert military time into civilian time after fiddling around with the codes for a little bit. Then our class was taught about looping. Though not being able to achieve it yet, I understand the concept. It allows the process of countining a string of words or sentences but without the process of tons of code.
+
+
+
+
+#Reflection
 ##7/12/2017
 Today much progress has happened. I was able to learn stuff I didn't have much grasp with. I sturggled in the beginning of class and gave Mr.Gold a hard time,but I was able to manage myself later in the class and accept the help from Mr.Gold to actually countinue forward with the class. I know have a better understanding of STR- this is a string which is helpful for connecting commands and other codes together. In the future I should ask Mr.Gold queastions because of how coding is so new to me. I cant be fed the answers, but what I can do is ask queastions. Ill make sure from now on to ask more queastions to improve and move forward in his class.
 
