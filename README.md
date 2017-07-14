@@ -1,4 +1,13 @@
 #Reflection
+##7/14/20
+Coding today was a mix of things. On one hand I was so close to almost getting a grasp on a problem, but on the other hand I didn't achieve in completing that problem.
+
+
+
+
+
+
+#Reflection
 ##7/13/20
 When coding today it was interesting. For the first portion of the class I was able to achieve a fair amount by myself. I was able to convert military time into civilian time after fiddling around with the codes for a little bit. Then our class was taught about looping. Though not being able to achieve it yet, I understand the concept. It allows the process of countining a string of words or sentences but without the process of tons of code.
 
