@@ -1,4 +1,9 @@
 #Reflection
+##7/15/17
+Coding today wasn't enjoyable today. I found a way to multiply my code without going through a whole long process of doing something else and it still isn't "correct." I really could care less about whats right in this instance because im just wanting to move on. The thing I learned today was that I couldn't use multiplication in code.
+
+
+#Reflection
 ##7/14/20
 Coding today was a mix of things. On one hand I was so close to almost getting a grasp on a problem, but on the other hand I didn't achieve in completing that problem. Today I learned that fiber optic cables can bline people if you cut it infront of people.
 
