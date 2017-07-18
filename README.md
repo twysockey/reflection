@@ -1,6 +1,12 @@
 #Reflection
+##7/16/17
+Today was really good! I was able to have a better understanding with the int function and was able to get some more context on the string function. It so far has allowed me to understand python/coding in a better light. Tonight Ill be practicing on code academy and try to review some of the tools.
+
+
+
+#Reflection
 ##7/15/17
-Coding today wasn't enjoyable today. I found a way to multiply my code without going through a whole long process of doing something else and it still isn't "correct." I really could care less about whats right in this instance because im just wanting to move on. The thing I learned today was that I couldn't use multiplication in code.
+{Review)On this day I was rather negetitive. I was being rude and unpleasant for which I didn't allow myself to learn anything. What I did do though is find a better way to communicate with mr.gold and found a website to help me to code with.
 
 
 #Reflection
