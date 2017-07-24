@@ -1,4 +1,11 @@
 #Reflection
+##7/24/17
+
+Today was pretty interresting. In class Mr.Gold wanted the students to create a game by our selves. He provided us with very bane boned codes and had us start fiddling around with it. I was able to change the color of the back round to a blue, to make it look like a sky. I was able to change the ground to green and have a human within the game and made him black. So I have modded the games colors, but now im trying to add functions like jump, music and add a backround thats in 4k. I tried researching how to generate terain like in minecraft, but its very complicated for how much I understand. Tonight Ill try to finish a few lessons in code academy and try to do more in my project.
+
+
+
+#Reflection
 ##7/16/17
 Today was really good! I was able to have a better understanding with the int function and was able to get some more context on the string function. It so far has allowed me to understand python/coding in a better light. Tonight Ill be practicing on code academy and try to review some of the tools.
 
@@ -10,7 +17,7 @@ Today was really good! I was able to have a better understanding with the int fu
 
 
 #Reflection
-##7/14/20
+##7/14/17
 Coding today was a mix of things. On one hand I was so close to almost getting a grasp on a problem, but on the other hand I didn't achieve in completing that problem. Today I learned that fiber optic cables can bline people if you cut it infront of people.
 
 
