@@ -1,4 +1,13 @@
 #Reflection
+##7/25/17
+Today was a interesting day for class today. I was able to get a backround image into my game and also Get music within my game as well. I chose to play the IW song for my game which sets the mood for me. I also had a space background and made my caracter look like he was on the moon. Then after coding was done all of the students computers just turned off randomly. It was a fun game, but im worried about my code because it might've not saved.
+
+
+
+
+
+
+#Reflection
 ##7/24/17
 
 Today was pretty interresting. In class Mr.Gold wanted the students to create a game by our selves. He provided us with very bane boned codes and had us start fiddling around with it. I was able to change the color of the back round to a blue, to make it look like a sky. I was able to change the ground to green and have a human within the game and made him black. So I have modded the games colors, but now im trying to add functions like jump, music and add a backround thats in 4k. I tried researching how to generate terain like in minecraft, but its very complicated for how much I understand. Tonight Ill try to finish a few lessons in code academy and try to do more in my project.
