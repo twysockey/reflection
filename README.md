@@ -1,3 +1,10 @@
+
+#Reflection
+##7/26/17
+
+Today was pretty good. Today I was able to start coding my menu/start up screen. So far half of it is complete. Tonight im going to come in and finish it, but I basically now have a start screen to my game. The last thing im still trying to figure out is how to jump in game. Other than that, I found my day to be where I take 2 steps forward and one step back. What did delay me was how i kept trying to restart with the jump micanic instead of trying to fix it.
+
+
 #Reflection
 ##7/25/17
 Today was a interesting day for class today. I was able to get a backround image into my game and also Get music within my game as well. I chose to play the IW song for my game which sets the mood for me. I also had a space background and made my caracter look like he was on the moon. Then after coding was done all of the students computers just turned off randomly. It was a fun game, but im worried about my code because it might've not saved.
