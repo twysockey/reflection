@@ -1,3 +1,8 @@
+Final reflection
+
+So far over the entire summer, it was awesome to be apart of Mr.Golds class. I was able to learn about html, css, python, pygame and so much more. I was able to create a game, convert military time into civilian time, and create my own website. The most frustraiting lessons was probably the create a game lesson. My favorite one was the create the website project.
+
+
 
 #Reflection
 ##7/26/17
