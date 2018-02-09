@@ -1,7 +1,14 @@
+# Reflection 3
+## 2/9/2018
+This week I have felt very acommplished when it came to coding compared to previous weeks. This week I made use of the command "input" in order to start the last homework problem. With input I used to allow the user to pick any number they wanted and it would solve the 3 problems given to them. I also was able use old code from summer ops to help me in this process. For fridays up coming project Omar came up with a idea for a website. The idea is to categorize each class on a personal difficulty level from least to greatest and to then organize each class on a time based level. The idea would use multiple input functions.  
+
+---
+
 # Reflection 2
 ## 2/5/2018
 For the last week I have been having trouble with coding in a few areas, most of of troubles are memory issues. This problem can be fixed by taking notes and adding on to Mr.Golds cheat sheet,but when taking tests It wont be allowed to be used because of the fact its cheating. So a way I could get fimilar with some of the codes is by using them more commonly, but the problem with that solution is that there are limitless amounts of code within coding programs.
 
+---
 
 # Reflection 1
 ## 1/26/2018
