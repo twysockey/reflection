@@ -1,3 +1,9 @@
+# Reflection 4
+## 2/16/2018
+This week was a great week for coding. I made a madlib that was based off the russian findings of Hitlers bunker and made it really silly. What I also did this week was finish the first and parts of the second homework. I found that the code used for the second homework though will ultimately fail because of the lack of therfore code and also the I keep facing the problem of the program working and not working. So I keep trying to add on to the original code that works but only parts of it work.
+
+
+
 # Reflection 3
 ## 2/9/2018
 This week I have felt very acommplished when it came to coding compared to previous weeks. This week I made use of the command "input" in order to start the last homework problem. With input I used to allow the user to pick any number they wanted and it would solve the 3 problems given to them. I also was able use old code from summer ops to help me in this process. For fridays up coming project Omar came up with a idea for a website. The idea is to categorize each class on a personal difficulty level from least to greatest and to then organize each class on a time based level. The idea would use multiple input functions.  
