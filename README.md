@@ -1,3 +1,8 @@
+# Reflection 5
+## 2/23/2018
+For homework this week it has been difficult. I have felt that with my grades declining in this class I would've been working harder on trying to achieve my goal of raising grades to only have the opposit to occur. With the stress of grades in this class and the stress of my G.P.A declining my brain feels over whelmed. I set out my google friday to be where I make a program where you can have the terminal diagnose you based on asking a few queastions, but with wanting to do so I didn't know where to start and felt ultimately useless. My code didn't work and it made me just restart the night prior to having the class turn in there projects. Ultimately, me coming to tutorial isn't helping enough. I believe the case to be made is that I dont ask enough queastions, yet when trying to I feel more obligated to try coding myself without any help or assistents. 
+
+
 # Reflection 4
 ## 2/16/2018
 This week was a great week for coding. I made a madlib that was based off the russian findings of Hitlers bunker and made it really silly. What I also did this week was finish the first and parts of the second homework. I found that the code used for the second homework though will ultimately fail because of the lack of therfore code and also the I keep facing the problem of the program working and not working. So I keep trying to add on to the original code that works but only parts of it work.
