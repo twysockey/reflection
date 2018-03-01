@@ -1,3 +1,9 @@
+# Reflection 6
+## 3/1/2018
+
+After being roasted this week by most of my classmates I have finally been able to finish 2 homework projects out of the three. It was painfully difficult to find code that worked. It also was difficult to understand how to use raw_Input. I believe that most of my difficulties for each homework project has been due to the fact that I really don’t know much of the functions of the code, nor do I know how to properly place each individual code. I see that I can fix this problem by having a cheat sheet on me when coding, but when taking tests I assume that I won’t be able to use it.
+
+
 # Reflection 5
 ## 2/23/2018
 For homework this week it has been difficult. I have felt that with my grades declining in this class I would've been working harder on trying to achieve my goal of raising grades to only have the opposit to occur. With the stress of grades in this class and the stress of my G.P.A declining my brain feels over whelmed. I set out my google friday to be where I make a program where you can have the terminal diagnose you based on asking a few queastions, but with wanting to do so I didn't know where to start and felt ultimately useless. My code didn't work and it made me just restart the night prior to having the class turn in there projects. Ultimately, me coming to tutorial isn't helping enough. I believe the case to be made is that I dont ask enough queastions, yet when trying to I feel more obligated to try coding myself without any help or assistents. 
