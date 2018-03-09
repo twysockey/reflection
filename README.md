@@ -1,3 +1,8 @@
+# Reflection 7
+## 3/9/2018
+
+After Mr.Gold declined my song requeast I started to have a minor flashback, but with that said it wasn't so bad. This week has been really difficult for me homework wise and grade wise. My grade has been stagnating and has not improved. For homework I have not really progressed to a point where I would like to be at. I was researching code for three days that might help me figure out how to do the Soduko homework, but my efforts resulted being futile because of either the code not working/syntax errors. I had the same problem with the other homeworks, but I atleast was able to finish a portion of the homework. This work I had to restart a multitude of times by removing the file and making a new one. It was only one day ago when I tried to do the bowling project. I have had more progress with understanding how to code with the bowling project than with the soduko. I know two  individuals in this class not knowing what they are doing and completely lost in what they are trying to do. 
+
 # Reflection 6
 ## 3/1/2018
 
