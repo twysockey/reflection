@@ -1,3 +1,8 @@
+# Reflection 8 
+##
+
+After a lonesome week of coding it has been very difficult for me to start the homework. Some factors have been homework and the lack of sleep I have had with a roommate louder than God Zilla. Yet, I digres. Who knew functions like "DEF" would make my life so much easier? It allows the user to almost cut his code in half because of the use of functions. I think that I still have to work on how to use them properly because I still have no clue on their use. So I understand around 50 percent of what is being taught, so since I have lacked going to tutorial this week, I think that has led me to my demise. 
+
 # Reflection 7
 ## 3/9/2018
 
