@@ -1,3 +1,11 @@
+# Reflection 10
+##5/11/2018
+Finally, after completing one of my homework asignments I am hoping that my grade rises because of it. I did a dice.py project where I would basically made a virtual dice role. After making code for it and having a fair amount of help from regas I was able to add 4 new variables that would change the game up. One of the variables would make the dice range to one to one-hundred. The other variable was to divide the score you had by two or multiply it by 0.50. Also we included a variable that stated that if the dice lands on 20,40,60,80,100 it would make mark the match as game over. Also Alan and I made sure that the lesser number wins. 
+
+# Reflection 9
+## 4/13/2018
+Homework for the last two weeks was pretty tough. The code really only started to make sense when I came in to learn how to use a funcction/ Def statement. Other than that I have been able to use parts and portions of the original work and copy/paste it in order for the homwork to work.
+
 # Reflection 8 
 ##
 
