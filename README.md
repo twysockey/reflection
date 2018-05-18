@@ -1,3 +1,8 @@
+# Reflection 11
+## 5/18/2018
+After this entire year of struggle though coding I was able to somehow manage hopefully a C average. I learned a lot from how to use a list, to using def statements and also how to use boolean statements correctly. The class has challanged me like no other class. It has frustrated me like no other class, but yet when I wanted to leave, I found a reason to stay for the challange. This class has allowed me to mentally toughen myself when it came to almost giving up on my studies and it has also made me more social which is a much appreciated rusult. The only regret I did have when taking this class was ultimately not asking enough queastions. When I lacked or had trouble with other problems I would not ask a queastion because of a irrational fear of embearrissing myself infront of everyone by asking a stupid queastion. I realized later on that there is no such thing as a bad queastion. 
+
+
 # Reflection 10
 ##5/11/2018
 Finally, after completing one of my homework asignments I am hoping that my grade rises because of it. I did a dice.py project where I would basically made a virtual dice role. After making code for it and having a fair amount of help from regas I was able to add 4 new variables that would change the game up. One of the variables would make the dice range to one to one-hundred. The other variable was to divide the score you had by two or multiply it by 0.50. Also we included a variable that stated that if the dice lands on 20,40,60,80,100 it would make mark the match as game over. Also Alan and I made sure that the lesser number wins. 
